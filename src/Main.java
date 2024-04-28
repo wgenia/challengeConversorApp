@@ -7,6 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Bienvenida/o a ConversorApp");
+        int opcionMenu = 0;
 
         ConsultaConversion consulta = new ConsultaConversion();
 
@@ -19,11 +20,11 @@ public class Main {
                 9- Salir
                 """;
 
-        int opcionMenu = 0;
-        Scanner tecaldo = new Scanner(System.in);
+
+        Scanner teclado = new Scanner(System.in);
         while (opcionMenu != 9){
             System.out.println(menu);
-            int opcionMenu = teclado.nextint();
+            opcionMenu = teclado.nextInt();
             switch (opcionMenu){
                 case 1:
                     System.out.println("El cambio de pesos argentinos (ARS) a dólares (USD) es:" + consulta);

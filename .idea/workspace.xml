@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="105a2848-f17d-4e43-88de-b9b7b5109f49" name="Changes" comment="proyecto conversor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsultaConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsultaConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714317327727</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="proyecto conversor">
+      <option name="closed" value="true" />
+      <created>1714318713890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714318713891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
