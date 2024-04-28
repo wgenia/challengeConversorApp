@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("Digite el número de opción deseada ");
 
-        String menu """
+        String menu = """
                 1- Cambiar de ARS a USD
                 2- Cambiar de USD a CLP
                 3- Cambiar de CLP a ARS

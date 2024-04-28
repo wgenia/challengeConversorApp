@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="105a2848-f17d-4e43-88de-b9b7b5109f49" name="Changes" comment="proyecto conversor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsultaConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsultaConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Downloads/gson-2.10.1.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/AD/MiCasa/Cursos/Oracle/primer-proyecto-spring&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/challengeConversorApp/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -76,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714316587820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="proyecto conversor">
+      <option name="closed" value="true" />
+      <created>1714317262144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714317262144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="proyecto conversor">
+      <option name="closed" value="true" />
+      <created>1714317327727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714317327727</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
